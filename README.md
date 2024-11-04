@@ -20,8 +20,7 @@ A simple data dashboard built using Streamlit, allowing users to upload CSV file
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/khubaib-farhan/streamlit_intro_app.git
 
 2. Install the required packages:
    ```bash
