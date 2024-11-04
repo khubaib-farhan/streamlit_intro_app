@@ -38,9 +38,13 @@ A simple data dashboard built using Streamlit, allowing users to upload CSV file
 
 ## How to Use
 Upload CSV: Use the file uploader to select and upload a CSV file.
+
 Data Preview: View the first few rows of the uploaded data.
+
 Data Summary: Get a statistical summary of the data.
+
 Filter Data: Choose a column to filter by and select a specific value to see the corresponding filtered data.
+
 Data Visualization: Select the X and Y axes to generate a line chart of the filtered data.
 
 ## License
